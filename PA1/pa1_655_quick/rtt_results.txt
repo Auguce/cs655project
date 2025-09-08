@@ -1,0 +1,78 @@
+Starting RTT measurement: Number of probes=10, message size=1 bytes, server delay=0 ms
+Probe 1: RTT = 0.5004 ms
+Probe 2: RTT = 0.8002 ms
+Probe 3: RTT = 0.2784 ms
+Probe 4: RTT = 0.5938 ms
+Probe 5: RTT = 0.3933 ms
+Probe 6: RTT = 0.389 ms
+Probe 7: RTT = 0.2545 ms
+Probe 8: RTT = 0.4772 ms
+Probe 9: RTT = 0.5077 ms
+Probe 10: RTT = 0.2975 ms
+Average RTT for message size 1 bytes: 0.4492 ms
+RTT measurement completed for message size 1 bytes.
+Starting RTT measurement: Number of probes=10, message size=100 bytes, server delay=0 ms
+Probe 1: RTT = 0.2092 ms
+Probe 2: RTT = 1.0325 ms
+Probe 3: RTT = 1.1819 ms
+Probe 4: RTT = 0.4941 ms
+Probe 5: RTT = 0.367 ms
+Probe 6: RTT = 0.5469 ms
+Probe 7: RTT = 0.4109 ms
+Probe 8: RTT = 0.315 ms
+Probe 9: RTT = 0.467 ms
+Probe 10: RTT = 0.4191 ms
+Average RTT for message size 100 bytes: 0.54436 ms
+RTT measurement completed for message size 100 bytes.
+Starting RTT measurement: Number of probes=10, message size=200 bytes, server delay=0 ms
+Probe 1: RTT = 0.251 ms
+Probe 2: RTT = 0.4249 ms
+Probe 3: RTT = 0.5512 ms
+Probe 4: RTT = 0.3491 ms
+Probe 5: RTT = 0.3722 ms
+Probe 6: RTT = 0.5677 ms
+Probe 7: RTT = 0.4974 ms
+Probe 8: RTT = 0.3854 ms
+Probe 9: RTT = 0.4129 ms
+Probe 10: RTT = 0.5996 ms
+Average RTT for message size 200 bytes: 0.44114 ms
+RTT measurement completed for message size 200 bytes.
+Starting RTT measurement: Number of probes=10, message size=400 bytes, server delay=0 ms
+Probe 1: RTT = 0.191 ms
+Probe 2: RTT = 0.5978 ms
+Probe 3: RTT = 0.6559 ms
+Probe 4: RTT = 0.7647 ms
+Probe 5: RTT = 0.419 ms
+Probe 6: RTT = 2.4585 ms
+Probe 7: RTT = 3.0301 ms
+Probe 8: RTT = 1.0532 ms
+Probe 9: RTT = 0.7172 ms
+Probe 10: RTT = 0.7275 ms
+Average RTT for message size 400 bytes: 1.0614900000000003 ms
+RTT measurement completed for message size 400 bytes.
+Starting RTT measurement: Number of probes=10, message size=800 bytes, server delay=0 ms
+Probe 1: RTT = 0.5584 ms
+Probe 2: RTT = 1.0088 ms
+Probe 3: RTT = 0.9839 ms
+Probe 4: RTT = 1.28 ms
+Probe 5: RTT = 1.3439 ms
+Probe 6: RTT = 0.92 ms
+Probe 7: RTT = 1.7274 ms
+Probe 8: RTT = 0.9335 ms
+Probe 9: RTT = 0.7909 ms
+Probe 10: RTT = 0.7927 ms
+Average RTT for message size 800 bytes: 1.0339500000000001 ms
+RTT measurement completed for message size 800 bytes.
+Starting RTT measurement: Number of probes=10, message size=1000 bytes, server delay=0 ms
+Probe 1: RTT = 0.1756 ms
+Probe 2: RTT = 1.058 ms
+Probe 3: RTT = 0.8002 ms
+Probe 4: RTT = 0.8947 ms
+Probe 5: RTT = 1.4407 ms
+Probe 6: RTT = 1.1032 ms
+Probe 7: RTT = 0.7483 ms
+Probe 8: RTT = 0.8487 ms
+Probe 9: RTT = 0.8384 ms
+Probe 10: RTT = 0.7392 ms
+Average RTT for message size 1000 bytes: 0.8647 ms
+RTT measurement completed for message size 1000 bytes.
